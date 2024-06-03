@@ -1,30 +1,31 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b0081&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Sou+um+cachorro+salsicha+que+faz+churrasco+e+nas+horas+vagas+faz+programação:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá👋,+Meu+nome+é+Matheus+Lucindo;Eu+tenho+17+anos+de+idade;Eu+sou+de+São+Paulo,+SP;Eu+sou+o+Isaque+e+sou+um+seguidor+de+Jesus;Seja+Bem-Vindo!+Jesus+te+Ama!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DiegoSenai10&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=ffffff&bg_color=0d1117" alt="Matheus Lucindo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSenai10&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=isaqkee&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=ffffff&bg_color=0d1117" alt="Matheus Lucindo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqkee&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiegoSenai10&bg_color=000000&color=ffffff&line=008000&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isaqkee&bg_color=000000&color=ffffff&line=008000&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  
-<a href="https://www.instagram.com/dsmf.x/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/matheus_lucindo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
 
  
 ### Plataformas que eu utilizo:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=29f7ff)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-0D1117?&style=for-the-badge&logo=Canva&logoColor=29f7ff)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=FFFFFF)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=trello&logoColor=0052CC)&nbsp;
 ![Android-Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=00BFFF)&nbsp;
 ![MySQL-Workbench](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=008B8B)&nbsp;
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![XAMPP](https://img.shields.io/badge/XAMPP-0D1117?style=for-the-badge&logo=xampp&labelColor=0D1117&textColor=0D1117)&nbsp;
  
 ### Meu conhecimento:
@@ -47,7 +48,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Contagem de Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/DiegoSenai10}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/isaqkee}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b0081&height=120&section=footer"/>
