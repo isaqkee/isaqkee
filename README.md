@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b0081&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá👋,+Meu+nome+é+Matheus+Lucindo;Eu+tenho+17+anos+de+idade;Eu+sou+de+São+Paulo,+SP;Eu+sou+o+Isaque+e+sou+um+seguidor+de+Jesus;Seja+Bem-Vindo!+Jesus+te+Ama!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=A+Paz+dp+Senhor!+Eu+sou+o+Isaque+e+sou+um+seguidor+de+Jesus;Seja+Bem-Vindo!+Jesus+te+Ama!❤+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
