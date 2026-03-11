@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **isaquecorreia011@gmail.com**
 
-- ⚡ Fun fact **I really enjoy reading books.**
+- ⚡ Fun fact **I really enjoy reading books and teaching.**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/isaqkee/](https://github.com/isaqkee/)**
 
