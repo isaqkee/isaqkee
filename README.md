@@ -2,7 +2,7 @@
 
 ### Student
 
-- 🔭 I'm currently working on **Data analysis**
+- 🔭 I'm currently working on **Data analyst**
 
 - 🌱 I'm currently learning **Cloud Computing, AI and Python.**
 
