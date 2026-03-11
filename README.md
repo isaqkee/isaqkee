@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://github.com/isaqkee/](https://github.com/isaqkee/)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1skNpzr7h4z5TDF2y_8DiSf4xL8z6suXn/view?usp=sharing](https://drive.google.com/file/d/1skNpzr7h4z5TDF2y_8DiSf4xL8z6suXn/view?usp=sharing)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1skNpzr7h4z5TDF2y_8DiSf4xL8z6suXn/view?usp=sharing](https://drive.google.com/file/d/1MgdBMMFYx60b3X9GcMspKklAcOfUpxat/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
