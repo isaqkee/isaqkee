@@ -10,7 +10,7 @@
 
 - 🤝 I'm looking for help with **Networking and Projects.**
 
-- 💬 Ask me about **DataBases, Big Data, Analytics and SQL.**
+- 💬 Ask me about **DataBases, Data Analytics, Big Data and SQL.**
 
 - 📫 How to reach me **isaquecorreia011@gmail.com**
 
